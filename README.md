@@ -23,4 +23,5 @@ Finally, I suggest you get your hands dirty with a [few labs on the basic k8s mo
 
 - [medium - 7 online courses](https://medium.com/javarevisited/7-free-online-courses-to-learn-kubernetes-in-2020-3b8a68ec7abc) 
 - [Edx - Introduction to K8s](https://www.edx.org/course/introduction-to-kubernetes?source=aw&awc=6798_1660107853_6f3cd051bc758e5aca33cb66504e75cb)
+- Pluralsight - Getting started with Kubernetes & Docker and Kubernetes: The big picture 
 
