@@ -25,3 +25,7 @@ Finally, I suggest you get your hands dirty with a [few labs on the basic k8s mo
 - [Edx - Introduction to K8s](https://www.edx.org/course/introduction-to-kubernetes?source=aw&awc=6798_1660107853_6f3cd051bc758e5aca33cb66504e75cb)
 - Pluralsight - Getting started with Kubernetes & Docker and Kubernetes: The big picture 
 
+
+### Extra
+[Minikube](https://minikube.sigs.k8s.io/docs/)  - minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. We proudly focus on helping application developers and new Kubernetes users.
+
